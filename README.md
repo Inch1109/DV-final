@@ -14,3 +14,8 @@ DiVING 是一個為所有潛水愛好者提供的潛水平台，提供優質的�
 * 首頁：切版、rwd，使用framer motion套件增加使用者互動性。
 * 活動列表：切版、rwd，篩選、收尋功能。
 * 優惠卷功能
+
+
+
+https://github.com/Inch1109/DV-final/assets/150612971/c82dd595-3c55-40db-8e58-261de3dc24b1
+
